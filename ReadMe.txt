@@ -1,1 +1,3 @@
-This directory was made using Netbeans and might not work with Eclipse, but still has the Slick2d library files that might be useful
+This directory will work with Eclipse.
+
+In order to change the name of the image file that is read, one must change that within the Find_Tile_Location.java
